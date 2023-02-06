@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction
+# Titanic-Survival
 
 <img src="https://images8.alphacoders.com/405/405029.jpg">
 
